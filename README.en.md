@@ -106,7 +106,7 @@ src/
 - Exception handling
 - Service layer
 
-## 10️⃣ Technical Conclusion
+## 1️⃣0️⃣ Technical Conclusion
 
 The project demonstrates structural understanding of OOP through clear hierarchies, abstraction, and interface-driven behavior separation.
 

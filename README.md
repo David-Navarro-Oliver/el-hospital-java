@@ -106,7 +106,7 @@ src/
 - Gestión de excepciones
 - Capa de servicios
 
-## 10️⃣ Conclusión Técnica
+## 1️⃣0️⃣ Conclusión Técnica
 
 El proyecto demuestra comprensión estructural de POO mediante jerarquías claras, abstracción e implementación de interfaces con responsabilidades separadas.
 
